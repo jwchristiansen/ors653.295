@@ -1,6 +1,8 @@
 # ORS 653.295 Noncompetition agreements; bonus restriction agreements; applicability of restrictions.
 
-Oregon Revised Statutes (ORS) Chapter 653.295 is Oregon's general statute for employment-related noncompetition agreements. ORS 653.295 has been amended **6 times** since its enactment in 1977.
+Oregon Revised Statutes (ORS) Chapter 653.295 is Oregon's general statute for employment-related noncompetition agreements. The statue imposes a series of prerequisites that employers must satisfy to impose enforceable noncompetes.
+
+ORS 653.295 has been amended **6 times** since its enactment in 1977.
 
 This repository summarizes and tracks the specific changes to ORS 653.295. The table below provides the following for each amendment: (1) a citation, (2) bulleted summaries of the substantive changes, (3) links to plain text redlines showing the exact changes, and (4) links to the historic PDF version of the statute.
 
@@ -19,6 +21,8 @@ This repository summarizes and tracks the specific changes to ORS 653.295. The t
 ## Background
 
  I created this repo to make it easier to visualize the amendments to ORS 653.295 over the years. I chose GitHub instead of other more conventional platforms because Git excels at sharing changes to text. I share these materials publicly because I believe statutory text belongs in the public domain (i.e., open source).
+
+ For further reading on this topic, please see my article titled [*Oregon Noncompetes - An Overview*](https://worklaw.io/oregon-noncompetition-agreements).
 
 ## Disclaimer
 
